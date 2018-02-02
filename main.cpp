@@ -1,16 +1,20 @@
 #include <iostream>
 #include <conio.h>
 
-//Standard namespace declaration
 using namespace std;
 
 //Main Function
 int main()
 {
-    int x = 2;
+    int x;
 
-    cout << "Hello";
+    cout << "Indtast værdi:" << endl;
 
+    cin >> x;
+
+    cout << "Værdi: " << x;
+    
+    
     getch();
 
     return 0;

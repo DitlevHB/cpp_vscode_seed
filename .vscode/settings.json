@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "cmake.buildDirectory": "${workspaceRoot}/build",
+    "C_Cpp.intelliSenseEngine": "Tag Parser"
+}
